@@ -3,7 +3,7 @@
 A simple JavaScript project that generates random RGB background colors on ENTER ( ↵ ) key press.
 
 ## Features
-- Changes background color on pressing ENTER key
+- Changes background color on pressing ENTER key or Click Button
 - Displays RGB color value
 - Automatically adjusts text color for better visibility
 
